@@ -4,7 +4,6 @@ I am Experienced Full Stack JavaScript Developer, Passionate, Self-motivated and
 
 working with Web and Mobile Application Development • Application Deployment / Maintenance • Full-Stack JavaScript Development, UI Design • Code Review & Optimization • Testing & Documentation •Object-Oriented Programming • Agile Methodologies • Database Design
 
-
 Languages: JavaScript ES6, Node.js
 Web: HTML5, CSS, HTTP, Bootstrap, JSON, SPA, EJS, HTTP Requests, History API, fetch & Geo-location API
 Frameworks: Angular, Expess.js, Mongoose, React, React-Native
@@ -50,6 +49,14 @@ Design Patterns: Rest, MVC, PRG, RxJS observables and operators, Module, Prototy
 * User Authentication
 * Progressive Web Applications
 * MERN Stack(MOngoDb,Express.js,React.js,Node.js)
+
+### Github Status
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solofaxum)](https://github.com/Solofaxum/github-readme-stats) -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solofaxum&hide=contribs,prs) -->
+
+### Most Used Languages
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ### Linkdin: Click [here](https://www.linkedin.com/in/solomon-gebreslasie/) to go to my linkdin profile. 
 
