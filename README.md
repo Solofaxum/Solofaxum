@@ -28,7 +28,7 @@ Design Patterns: Rest, MVC, PRG, RxJS observables and operators, Module, Prototy
 * Bootstrap
 * Handlebars, Local Storage, Session Storage, IndexedDB
 
-### API Interaction
+### Deployment/Command-Line Fundamentals
 * Google Cloud
 * Github
 * Heroku
