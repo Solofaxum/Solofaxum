@@ -17,7 +17,7 @@ Design Patterns: Rest, MVC, PRG, RxJS observables and operators, Module, Prototy
 
 🔭 I’m currently working with TCS as Angular (latest version) Developer
 
-## Technologies familarity
+## Technologies
 ### Browser Based Technologies
 * Angular (V 9, 10, 11 and 12)
 * React
