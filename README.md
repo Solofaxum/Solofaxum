@@ -1,6 +1,6 @@
-## Hi there 👋, From Solomon 
+## Hi there 👋, Solomon 
 ### About ME 💬
-I am Experienced Full Stack JavaScript Developer, Passionate, Self-motivated and Proficient in JavaScript technologies, with 5+ years of experience in web development through all phases of the Software Development Life Cycle. Practical Experience using trending technologies and tools like Angular, React, React-Native, JavaScript, NodeJs, ExpressJs, HTML5, CSS, Bootstrap, MongoDB, MySQL, Git and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
+I am Experienced Full Stack JavaScript Developer, Passionate, Self-motivated and Proficient in JavaScript technologies, with 7+ years of experience in web development through all phases of the Software Development Life Cycle. Practical Experience using trending technologies and tools like Angular, React, React-Native, JavaScript, NodeJs, ExpressJs, HTML5, CSS, Bootstrap, MongoDB, MySQL, Git and more. Able to effectively self-manage during independent project as well as collaborate in a team setting.
 
 working with Web and Mobile Application Development • Application Deployment / Maintenance • Full-Stack JavaScript Development, UI Design • Code Review & Optimization • Testing & Documentation •Object-Oriented Programming • Agile Methodologies • Database Design
 
